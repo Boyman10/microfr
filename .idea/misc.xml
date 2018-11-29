@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/config/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/bookmicro/pom.xml" />
+        <option value="$PROJECT_DIR$/zuuledge/pom.xml" />
       </list>
     </option>
   </component>
