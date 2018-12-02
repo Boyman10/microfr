@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f99ca6ef-060b-4726-863a-2f66235476ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmicro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bookmicro/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuuledge/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zuuledge/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/ZuuledgeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/ZuuledgeApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,7 +36,7 @@
           <entry key="cmd" value="1" />
           <entry key="css" value="1" />
           <entry key="html" value="2" />
-          <entry key="java" value="27" />
+          <entry key="java" value="31" />
           <entry key="json" value="1" />
           <entry key="properties" value="15" />
           <entry key="sql" value="1" />
@@ -53,7 +50,7 @@
         <counts>
           <entry key="CSS" value="1" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="31" />
           <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="15" />
@@ -65,17 +62,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="317" />
+          <entry key="java" value="318" />
           <entry key="properties" value="29" />
-          <entry key="txt" value="677" />
+          <entry key="txt" value="760" />
           <entry key="xml" value="71" />
           <entry key="yml" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="317" />
-          <entry key="PLAIN_TEXT" value="677" />
+          <entry key="JAVA" value="318" />
+          <entry key="PLAIN_TEXT" value="760" />
           <entry key="Properties" value="29" />
           <entry key="XML" value="71" />
           <entry key="YAML" value="108" />
@@ -91,24 +88,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuuledge/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bookmicro/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/BookmicroApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -120,11 +99,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/config/ResourceServerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/config/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,10 +135,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/ZuuledgeApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
+            <state relative-caret-position="317">
               <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -175,6 +166,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/AuthserveApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/config/ServerSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/config/AuthServerOAuth2Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="99" column="61" selection-start-line="99" selection-start-column="61" selection-end-line="99" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/filters/SimpleFilter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -185,20 +212,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuuledge/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angularui/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -249,6 +262,7 @@
         <option value="$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/interceptor/UserFeignClientInterceptor.java" />
         <option value="$PROJECT_DIR$/zuuledge/pom.xml" />
         <option value="$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/ZuuledgeApplication.java" />
+        <option value="$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/config/SecurityConfig.java" />
       </list>
     </option>
   </component>
@@ -309,6 +323,51 @@
             <path>
               <item name="microfr" type="b2602c69:ProjectViewProjectNode" />
               <item name="microfr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microfr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microfr" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmicro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microfr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microfr" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmicro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microfr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microfr" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmicro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microfr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microfr" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmicro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microfr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microfr" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmicro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmicro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microfr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microfr" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmicro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmicro" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microfr" type="b2602c69:ProjectViewProjectNode" />
@@ -399,7 +458,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543782322258" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543783415425" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mcommerce/config-server-repo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -425,7 +484,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuuledgeApplication">
+  <component name="RunManager" selected="Spring Boot.BookmicroApplication">
     <configuration name="AuthserveApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="authserve" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.rhm.auth.authserve.AuthserveApplication" />
@@ -508,7 +567,7 @@
       <workItem from="1543349718973" duration="3463000" />
       <workItem from="1543524523032" duration="1129000" />
       <workItem from="1543605867103" duration="1405000" />
-      <workItem from="1543740568008" duration="18279000" />
+      <workItem from="1543740568008" duration="19371000" />
     </task>
     <task id="LOCAL-00001" summary="ADding Spring Gateway module for testing purposes.">
       <created>1543353192863</created>
@@ -587,17 +646,24 @@
       <option name="project" value="LOCAL" />
       <updated>1543771011215</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updating edge  service with feign for inter services communication the secure way">
+      <created>1543782353844</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543782353844</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29592000" />
+    <option name="totallyTimeSpent" value="30684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="391" y="0" width="1391" height="1041" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26671675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26671675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -609,7 +675,7 @@
       <window_info anchor="bottom" id="TypeScript" weight="0.3296582" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37265712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37265712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -650,7 +716,8 @@
     <MESSAGE value="fixing dep management for sring cloud starter config in bookmimcro" />
     <MESSAGE value="fixing zuul edge dep in pom using spring initializr" />
     <MESSAGE value="Trying on things with resource and authentication server... TO DO LATER..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying on things with resource and authentication server... TO DO LATER..." />
+    <MESSAGE value="Updating edge  service with feign for inter services communication the secure way" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating edge  service with feign for inter services communication the secure way" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/src/main/resources/application.properties" />
@@ -784,30 +851,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/AuthserveApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/authserve/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/config/ServerSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -823,18 +870,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resourceserve/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/config/AuthServerOAuth2Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1493">
-          <caret line="99" column="61" selection-start-line="99" selection-start-column="61" selection-end-line="99" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1433#1434#0" expanded="true" />
-            <element signature="e#1488#1489#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resourceserve/src/main/java/com/rhm/resourceserve/resourceserve/config/OAuth2ResourceServerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -913,17 +948,6 @@
     <entry file="file://$PROJECT_DIR$/angularui/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/filters/SimpleFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuuledge/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -938,40 +962,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/BookmicroApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/config/ResourceServerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuuledge/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="487">
           <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/config/ResourceServerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -985,9 +979,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/filters/SimpleFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/ZuuledgeApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
+        <state relative-caret-position="317">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -997,6 +1002,76 @@
             <element signature="e#881#882#0" expanded="true" />
             <element signature="e#961#962#0" expanded="true" />
             <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuuledge/src/main/java/com/rhm/zuuledge/zuuledge/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/AuthserveApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/config/ServerSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authserve/src/main/java/com/rhm/auth/authserve/config/AuthServerOAuth2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="99" column="61" selection-start-line="99" selection-start-column="61" selection-end-line="99" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/BookmicroApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmicro/src/main/java/com/rhm/book/bookmicro/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
