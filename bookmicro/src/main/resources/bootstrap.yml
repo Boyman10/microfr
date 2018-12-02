@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: bookmicro
+
+  cloud:
+    config:
+      uri: http://localhost:8950
