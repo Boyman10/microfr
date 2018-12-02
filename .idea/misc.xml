@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/bookmicro/pom.xml" />
         <option value="$PROJECT_DIR$/zuuledge/pom.xml" />
+        <option value="$PROJECT_DIR$/authserve/pom.xml" />
+        <option value="$PROJECT_DIR$/resourceserve/pom.xml" />
       </list>
     </option>
   </component>
